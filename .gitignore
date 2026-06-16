@@ -1,0 +1,22 @@
+# Environment
+BE/.env
+FE/.env
+
+# Firebase service account key
+BE/serviceAccountKey.json
+
+# Python
+BE/venv/
+BE/__pycache__/
+BE/**/__pycache__/
+BE/*.pyc
+
+# Node
+FE/node_modules/
+FE/dist/
+
+# Docker
+BE/uploads/
+
+# Logs
+*.log
